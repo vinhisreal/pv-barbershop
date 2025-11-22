@@ -1,0 +1,174 @@
+[{
+  "_id": {
+    "$oid": "68f0e2cd9df2c31df40aed51"
+  },
+  "path": "/api/v1/invoice",
+  "target": "http://localhost:5003",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68f0e2e49df2c31df40aed56"
+  },
+  "path": "/api/v1/payment",
+  "target": "http://localhost:5003",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68f0e2fd9df2c31df40aed58"
+  },
+  "path": "/api/v1/statistic",
+  "target": "http://localhost:5002",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68f0e33a9df2c31df40aed5a"
+  },
+  "path": "/api/v1/notification",
+  "target": "http://localhost:5004",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68f0e3459df2c31df40aed5c"
+  },
+  "path": "/api/v1/otp",
+  "target": "http://localhost:5004",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68f0f76fe0a3503528780cbb"
+  },
+  "path": "/api/v1/user",
+  "target": "http://localhost:5001",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68f0f792e0a3503528780cbd"
+  },
+  "path": "/api/v1/upload",
+  "target": "http://localhost:5001",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68f0f79fe0a3503528780cbf"
+  },
+  "path": "/api/v1/salary",
+  "target": "http://localhost:5001",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68f0f7ade0a3503528780cc1"
+  },
+  "path": "/api/v1/gift",
+  "target": "http://localhost:5007",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68f0f7bee0a3503528780cc3"
+  },
+  "path": "/api/v1/discount",
+  "target": "http://localhost:5007",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68f0f149fd92b977e8a45e0e"
+  },
+  "path": "/api/v1/appointment",
+  "target": "http://localhost:5002",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68f0f570f6cb23ebc50d2603"
+  },
+  "path": "/api/v1/service",
+  "target": "http://localhost:5002",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68f0f63df6cb23ebc50d2605"
+  },
+  "path": "/api/v1/review",
+  "target": "http://localhost:5002",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68fa629d2f43318a6757656b"
+  },
+  "path": "/api/v1/mail",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-23T17:15:09.752Z"
+  },
+  "target": "http://localhost:5004",
+  "updatedAt": {
+    "$date": "2025-10-23T17:15:09.752Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68fa637d2f43318a67576690"
+  },
+  "path": "/api/v1/contact",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-23T17:18:53.952Z"
+  },
+  "target": "http://localhost:5001",
+  "updatedAt": {
+    "$date": "2025-10-23T17:18:53.952Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "690c92628ef3a1c2a75ca62a"
+  },
+  "path": "/api/v1/footer",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-11-06T12:19:46.468Z"
+  },
+  "target": "http://localhost:5005",
+  "updatedAt": {
+    "$date": "2025-11-06T12:19:46.468Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "690c92728ef3a1c2a75ca63f"
+  },
+  "path": "/api/v1/lookbook",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-11-06T12:20:02.807Z"
+  },
+  "target": "http://localhost:5005",
+  "updatedAt": {
+    "$date": "2025-11-06T12:20:02.807Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691b0e85cecc3f4667183a39"
+  },
+  "path": "/api/v1/user-role",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-11-17T12:01:09.695Z"
+  },
+  "target": "http://localhost:5001",
+  "updatedAt": {
+    "$date": "2025-11-17T12:01:09.695Z"
+  }
+}]

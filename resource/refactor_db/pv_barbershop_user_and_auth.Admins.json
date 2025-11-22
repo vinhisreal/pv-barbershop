@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "691b229d63bcc5d2f589b226"
+  },
+  "user_id": {
+    "$oid": "691b229d63bcc5d2f589b224"
+  },
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-11-17T13:26:53.236Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-17T13:26:53.236Z"
+  },
+  "__v": 0
+}]

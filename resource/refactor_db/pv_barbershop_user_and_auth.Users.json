@@ -1,0 +1,47 @@
+[{
+  "_id": {
+    "$oid": "691b229d63bcc5d2f589b224"
+  },
+  "user_name": "Duke Lewis",
+  "user_email": "thevi16102004@gmail.com",
+  "user_avatar": "",
+  "user_password": "$2b$10$R5iQaebfPXoB/CRZZ3Qj1.rt3oDk2fhmzwdIKk4xSdLDAyw63Zt3.",
+  "user_gender": "unknown",
+  "user_phone": "",
+  "user_role": {
+    "$oid": "691b212f2d65f92b72db047b"
+  },
+  "user_point": 0,
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-11-17T13:26:53.222Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-17T13:26:53.222Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691b2a606aeeb9118a4c4ebe"
+  },
+  "user_name": "Lê Phan Thế Vĩ",
+  "user_email": "dukelewis2004@gmail.com",
+  "user_avatar": "https://res.cloudinary.com/vinhisreal/image/upload/v1763388001/users/1763387997170-459417900_934755602018632_7449089952666641490_n.jpg.jpg",
+  "user_password": "$2b$10$bHPQiRjmUl0D7PPyWveUH.L6c1dizycfhllB9PgEnSNQZTmDgML66",
+  "user_gender": "male",
+  "user_phone": "",
+  "user_role": {
+    "$oid": "691b21252d65f92b72db0478"
+  },
+  "user_point": 0,
+  "isActive": false,
+  "createdAt": {
+    "$date": "2025-11-17T14:00:00.547Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-17T14:04:12.330Z"
+  },
+  "__v": 0,
+  "deletedBy": "691b229d63bcc5d2f589b224"
+}]

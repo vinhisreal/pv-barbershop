@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "691b2a606aeeb9118a4c4ec0"
+  },
+  "user_id": {
+    "$oid": "691b2a606aeeb9118a4c4ebe"
+  },
+  "isActive": true,
+  "day_joint": {
+    "$date": "2025-11-17T14:00:00.554Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-17T14:00:00.554Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-17T14:00:00.554Z"
+  },
+  "__v": 0
+}]

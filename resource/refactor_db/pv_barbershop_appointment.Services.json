@@ -1,0 +1,180 @@
+[{
+  "_id": {
+    "$oid": "67f001ff36accc91b116337e"
+  },
+  "service_name": "Cắt gội Combo 1",
+  "service_price": 120000,
+  "service_duration": 45,
+  "service_description": "Combo Cắt kỹ và Combo Gội Massage",
+  "service_image": "https://res.cloudinary.com/puahuhu/image/upload/v1743782400/services/1743782397564-cat-goi-combo-1-1.jpg.jpg",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-04-04T15:59:59.563Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-04T15:59:59.563Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f0024636accc91b1163380"
+  },
+  "service_name": "Combo lấy ráy tai VIP",
+  "service_price": 70000,
+  "service_duration": 20,
+  "service_description": "Lấy ráy tai sạch và đầy sảng khoái với máy massage ráy tai đa điểm, rửa tai bọt, thư giãn âm thoa",
+  "service_image": "https://res.cloudinary.com/puahuhu/image/upload/v1743782470/services/1743782466067-raytai.png.png",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-04-04T16:01:10.844Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-04T16:01:10.844Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f0026236accc91b1163382"
+  },
+  "service_name": "Cắt xả",
+  "service_price": 100000,
+  "service_duration": 45,
+  "service_description": "Stylist cắt - xả - vuốt sáp tạo kiểu (Không gội & massage)",
+  "service_image": "https://res.cloudinary.com/puahuhu/image/upload/v1743782591/services/1743782588633-catxa.jpg.jpg",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-04-04T16:01:38.459Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-04T16:03:10.376Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f0033236accc91b116338b"
+  },
+  "service_name": "Cắt gội Combo 2",
+  "service_price": 279000,
+  "service_duration": 65,
+  "service_description": "Combo cắt kỹ, Combo chăm sóc da chuyên sâu sáng đều màu da bằng thiết bị công nghệ cao",
+  "service_image": "https://res.cloudinary.com/puahuhu/image/upload/v1743782706/services/1743782702709-combo3.jpg.jpg",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-04-04T16:05:06.239Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-04T16:05:06.239Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f0036336accc91b116338d"
+  },
+  "service_name": "Cắt gội Combo 3",
+  "service_price": 359000,
+  "service_duration": 75,
+  "service_description": "Combo cắt kỹ, Combo gội massage bấm huyệt đầu, cổ vai gáy, Combo massage giãn cơ lưng bằng đá nóng Himalaya",
+  "service_image": "https://res.cloudinary.com/puahuhu/image/upload/v1743782756/services/1743782752226-combo4.jpg.jpg",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-04-04T16:05:55.438Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-04T16:05:55.438Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f003c736accc91b116338f"
+  },
+  "service_name": "Uốn Basic",
+  "service_price": 379000,
+  "service_duration": 60,
+  "service_description": "Uốn nhẹ nhàng cho nếp tóc vào form gọn gàng",
+  "service_image": "https://res.cloudinary.com/puahuhu/image/upload/v1743782856/services/1743782853442-uontoc.jpg.jpg",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-04-04T16:07:35.357Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-04T16:07:35.357Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f0040136accc91b1163391"
+  },
+  "service_name": "Duỗi tạo phồng",
+  "service_price": 349000,
+  "service_duration": 60,
+  "service_description": "Duỗi tạo phồng",
+  "service_image": "https://res.cloudinary.com/puahuhu/image/upload/v1743782914/services/1743782910028-duoitoc.jpeg.jpg",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-04-04T16:08:33.421Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-04T16:08:33.421Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f004a936accc91b1163393"
+  },
+  "service_name": "Nhuộm màu thời trang Milano",
+  "service_price": 329000,
+  "service_duration": 30,
+  "service_description": "Màu nhuộm cao cấp được Bộ y tế thẩm định chất lượng, nhập khẩu Ý  Thường dùng cho những trường hợp tóc chắc khỏe, không khuyết điểm",
+  "service_image": "https://res.cloudinary.com/puahuhu/image/upload/v1743783082/services/1743783078251-nhuom.jpg.jpg",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-04-04T16:11:21.642Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-04T16:11:21.642Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f004e236accc91b1163395"
+  },
+  "service_name": "Tẩy da chết sủi bọt Hàn Quốc",
+  "service_price": 35000,
+  "service_duration": 30,
+  "service_description": "Tẩy da chết nhẹ nhàng bằng gel sủi bọt giúp da căng mịn, tươi mới",
+  "service_image": "https://res.cloudinary.com/puahuhu/image/upload/v1743783139/services/1743783135104-tayda.jpg.jpg",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-04-04T16:12:18.997Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-04T16:12:18.997Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f0051136accc91b1163397"
+  },
+  "service_name": "Chăm sóc da cấp thiết UltraWhite",
+  "service_price": 55000,
+  "service_duration": 45,
+  "service_description": "Tẩy da chết trắng mịn - Đắp mặt nạ lạnh",
+  "service_image": "https://res.cloudinary.com/puahuhu/image/upload/v1743783186/services/1743783183072-chamsoc.jpg.jpg",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-04-04T16:13:05.632Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-04T16:13:05.632Z"
+  },
+  "__v": 0
+}]

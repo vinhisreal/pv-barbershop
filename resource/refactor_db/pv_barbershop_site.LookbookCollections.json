@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "690cc8d89c74a11c2bf5dfcc"
+  },
+  "name": "Lookbook ",
+  "description": "lookbookvjp",
+  "active": true,
+  "createdAt": {
+    "$date": "2025-11-06T16:12:08.880Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-06T16:13:23.931Z"
+  },
+  "__v": 0
+}]

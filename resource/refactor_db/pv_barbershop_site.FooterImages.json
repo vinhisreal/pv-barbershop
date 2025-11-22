@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "690cc85f9c74a11c2bf5dfac"
+  },
+  "url": "https://res.cloudinary.com/vinhisreal/image/upload/v1762445408/footer/1762445404439-1744529694331-363793504_1908215872893548_2929361378794883358_n.jpg.jpg",
+  "link": "",
+  "active": true,
+  "collection": {
+    "$oid": "690cc8429c74a11c2bf5dfa8"
+  },
+  "createdAt": {
+    "$date": "2025-11-06T16:10:07.991Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-06T16:10:27.076Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690cc86e9c74a11c2bf5dfae"
+  },
+  "url": "https://res.cloudinary.com/vinhisreal/image/upload/v1762445423/footer/1762445420510-1744530886121-5.jpg.jpg",
+  "link": "",
+  "active": true,
+  "collection": {
+    "$oid": "690cc8429c74a11c2bf5dfa8"
+  },
+  "createdAt": {
+    "$date": "2025-11-06T16:10:22.631Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-06T16:10:27.076Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690cc8859c74a11c2bf5dfb5"
+  },
+  "url": "https://res.cloudinary.com/vinhisreal/image/upload/v1762445446/footer/1762445441472-1744530266820-472184538_614601234430458_5140422514991108968_n.jpg.jpg",
+  "link": "",
+  "active": true,
+  "collection": {
+    "$oid": "690cc8429c74a11c2bf5dfa8"
+  },
+  "createdAt": {
+    "$date": "2025-11-06T16:10:45.146Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-06T16:11:42.686Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690cc8999c74a11c2bf5dfb7"
+  },
+  "url": "https://res.cloudinary.com/vinhisreal/image/upload/v1762445465/footer/1762445461089-1744530482045-459311904_1545239976097211_843266163592352690_n.jpg.jpg",
+  "link": "",
+  "active": true,
+  "collection": {
+    "$oid": "690cc8429c74a11c2bf5dfa8"
+  },
+  "createdAt": {
+    "$date": "2025-11-06T16:11:05.298Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-06T16:11:43.751Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690cc8b59c74a11c2bf5dfb9"
+  },
+  "url": "https://res.cloudinary.com/vinhisreal/image/upload/v1762445494/footer/1762445489807-1744528879546-hua-quang-han-tham-du-giai-thuong-dien-anh-baeksang-lan-59-voi-tu-cach-nguoi-trao-gia-2.jpg.jpg",
+  "link": "",
+  "active": true,
+  "collection": {
+    "$oid": "690cc8429c74a11c2bf5dfa8"
+  },
+  "createdAt": {
+    "$date": "2025-11-06T16:11:33.592Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-06T16:11:44.230Z"
+  },
+  "__v": 0
+}]

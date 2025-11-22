@@ -1,0 +1,88 @@
+.container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  .booking {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 0;
+    height: 100vh;
+    width: 100vw;
+    background-image: url("https://res.cloudinary.com/lewisshop/image/upload/v1743512910/toeic/answers/1743512902665-BackgroundImg.png.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    .booking-btn-container {
+      width: 160px;
+      height: 100px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background-color: rgba(193, 181, 181, 0.4);
+      border-radius: 4px;
+
+      .booking-btn {
+        z-index: 5;
+        width: 100px;
+        height: 100px;
+        background-image: url("https://res.cloudinary.com/lewisshop/image/upload/v1743513745/toeic/answers/1743513741856-%C4%90%E1%BA%B7t%20l%E1%BB%8Bch.png.png");
+        background-size: cover;
+        background-repeat: no-repeat;
+      }
+    }
+  }
+
+  .service-container {
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--dark);
+  }
+
+  .service {
+    height: fit-content;
+    width: 1200px;
+  }
+
+  .pricing-container {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://res.cloudinary.com/lewisshop/image/upload/v1743612885/toeic/answers/1743612882697-backg.jpg.jpg");
+    height: fit-content;
+    width: 100vw;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .overflow {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 10;
+    background-color: rgba(0, 0, 0, 0.2);
+  }
+
+  .pricing {
+    z-index: 100;
+    width: 1200px;
+    padding: 20px 0 40px 0;
+  }
+
+  .lookbook {
+    width: 1200px;
+  }
+
+  .review {
+    width: 1200px;
+    margin-bottom: 35px;
+  }
+}

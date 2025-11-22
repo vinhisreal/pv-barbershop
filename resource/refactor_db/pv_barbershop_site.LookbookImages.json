@@ -1,0 +1,198 @@
+[{
+  "_id": {
+    "$oid": "690cc8f39c74a11c2bf5dfd0"
+  },
+  "url": "https://res.cloudinary.com/vinhisreal/image/upload/v1762445556/lookbook/1762445552237-1744528845146-BIGBANG-GDragon-MAMA-2024-Cover-Photo.jpg.jpg",
+  "link": "",
+  "active": true,
+  "collection": {
+    "$oid": "690cc8d89c74a11c2bf5dfcc"
+  },
+  "createdAt": {
+    "$date": "2025-11-06T16:12:35.348Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-06T16:13:23.936Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690cc9019c74a11c2bf5dfd5"
+  },
+  "url": "https://res.cloudinary.com/vinhisreal/image/upload/v1762445570/lookbook/1762445566201-1744528935737-p3Qx8_5f.jpg.jpg",
+  "link": "",
+  "active": true,
+  "collection": {
+    "$oid": "690cc8d89c74a11c2bf5dfcc"
+  },
+  "createdAt": {
+    "$date": "2025-11-06T16:12:49.653Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-06T16:13:23.936Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690cc9129c74a11c2bf5dfda"
+  },
+  "url": "https://res.cloudinary.com/vinhisreal/image/upload/v1762445587/lookbook/1762445583837-1744528959700-2.jpg.jpg",
+  "link": "",
+  "active": true,
+  "collection": {
+    "$oid": "690cc8d89c74a11c2bf5dfcc"
+  },
+  "createdAt": {
+    "$date": "2025-11-06T16:13:06.451Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-06T16:13:23.936Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690cc9419c74a11c2bf5dfee"
+  },
+  "url": "https://res.cloudinary.com/vinhisreal/image/upload/v1762445634/lookbook/1762445631058-1744528959700-2.jpg.jpg",
+  "link": "",
+  "active": false,
+  "collection": {
+    "$oid": "690cc8d89c74a11c2bf5dfcc"
+  },
+  "createdAt": {
+    "$date": "2025-11-06T16:13:53.748Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-06T16:13:53.748Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690cc94f9c74a11c2bf5dff3"
+  },
+  "url": "https://res.cloudinary.com/vinhisreal/image/upload/v1762445648/lookbook/1762445645069-1744529016458-3.jpg.jpg",
+  "link": "",
+  "active": true,
+  "collection": {
+    "$oid": "690cc8d89c74a11c2bf5dfcc"
+  },
+  "createdAt": {
+    "$date": "2025-11-06T16:14:07.788Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-06T16:14:33.797Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690cc9619c74a11c2bf5dff8"
+  },
+  "url": "https://res.cloudinary.com/vinhisreal/image/upload/v1762445665/lookbook/1762445660413-1744529165582-480587644_1224137549712776_6826957666366957282_n.jpg.jpg",
+  "link": "",
+  "active": true,
+  "collection": {
+    "$oid": "690cc8d89c74a11c2bf5dfcc"
+  },
+  "createdAt": {
+    "$date": "2025-11-06T16:14:25.262Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-06T16:14:32.942Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690cc97c9c74a11c2bf5e003"
+  },
+  "url": "https://res.cloudinary.com/vinhisreal/image/upload/v1762445693/lookbook/1762445690824-1744529694331-363793504_1908215872893548_2929361378794883358_n.jpg.jpg",
+  "link": "",
+  "active": true,
+  "collection": {
+    "$oid": "690cc8d89c74a11c2bf5dfcc"
+  },
+  "createdAt": {
+    "$date": "2025-11-06T16:14:52.950Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-06T16:15:23.967Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690cc98d9c74a11c2bf5e008"
+  },
+  "url": "https://res.cloudinary.com/vinhisreal/image/upload/v1762445709/lookbook/1762445704703-1744530030453-448410730_447388421237289_8080015170163776853_n.jpg.jpg",
+  "link": "",
+  "active": true,
+  "collection": {
+    "$oid": "690cc8d89c74a11c2bf5dfcc"
+  },
+  "createdAt": {
+    "$date": "2025-11-06T16:15:09.273Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-06T16:15:25.191Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690cc9bf9c74a11c2bf5e017"
+  },
+  "url": "https://res.cloudinary.com/vinhisreal/image/upload/v1762445760/lookbook/1762445756414-1744530886121-5.jpg.jpg",
+  "link": "",
+  "active": true,
+  "collection": {
+    "$oid": "690cc8d89c74a11c2bf5dfcc"
+  },
+  "createdAt": {
+    "$date": "2025-11-06T16:15:59.403Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-06T16:16:42.327Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690cc9d09c74a11c2bf5e01c"
+  },
+  "url": "https://res.cloudinary.com/vinhisreal/image/upload/v1762445777/lookbook/1762445772776-1744530482045-459311904_1545239976097211_843266163592352690_n.jpg.jpg",
+  "link": "",
+  "active": true,
+  "collection": {
+    "$oid": "690cc8d89c74a11c2bf5dfcc"
+  },
+  "createdAt": {
+    "$date": "2025-11-06T16:16:16.289Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-06T16:16:42.985Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690cc9e69c74a11c2bf5e021"
+  },
+  "url": "https://res.cloudinary.com/vinhisreal/image/upload/v1762445799/lookbook/1762445795197-1744530553593-425739457_905098971399007_1603812869306288503_n.jpg.jpg",
+  "link": "",
+  "active": true,
+  "collection": {
+    "$oid": "690cc8d89c74a11c2bf5dfcc"
+  },
+  "createdAt": {
+    "$date": "2025-11-06T16:16:38.064Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-06T16:16:44.211Z"
+  },
+  "__v": 0
+}]

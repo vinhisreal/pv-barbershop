@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "691b21252d65f92b72db0478"
+  },
+  "name": "receptionist",
+  "description": "Receptionist of the website",
+  "code": 1,
+  "createdAt": {
+    "$date": "2025-11-17T13:20:37.661Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-17T13:20:37.661Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691b212f2d65f92b72db047b"
+  },
+  "name": "admin",
+  "description": "Admin of the website",
+  "code": 0,
+  "createdAt": {
+    "$date": "2025-11-17T13:20:47.893Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-17T13:20:47.893Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691b213a2d65f92b72db047e"
+  },
+  "name": "staff",
+  "description": "Staff of the website",
+  "code": 2,
+  "createdAt": {
+    "$date": "2025-11-17T13:20:58.668Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-17T13:20:58.668Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691b214a2d65f92b72db0481"
+  },
+  "name": "customer",
+  "description": "Customer of the website",
+  "code": 3,
+  "createdAt": {
+    "$date": "2025-11-17T13:21:14.911Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-17T13:21:14.911Z"
+  },
+  "__v": 0
+}]
