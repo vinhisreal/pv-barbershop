@@ -31,13 +31,11 @@ As the Business Analyst, I analyzed and defined the requirements for the followi
 *Designing the data schema across distributed databases (MongoDB) to ensure data consistency.*
 
 ![ERD Diagram](https://res.cloudinary.com/vinhisreal/image/upload/v1765726870/erd_full_vfzoct.png)
-*(Insert your ERD image from ERDPlus here)*
 
 #### Use Case Diagram
 *Visualizing interactions between Customers, Receptionists, and the System.*
 
 ![Use Case Diagram](https://res.cloudinary.com/vinhisreal/image/upload/v1765726969/UseCaseDiagram1_bf2liz.jpg)
-*(Insert your Use Case image from StarUML here)*
 
 ---
 
