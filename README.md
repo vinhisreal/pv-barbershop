@@ -1,10 +1,70 @@
 # 💈 PV Barbershop System Setup Guide
+> **Role:** Business Analyst & Database Designer
+> **Architecture:** Microservices
+> **Status:** Production Ready
 
+## 1. Project Overview
+PV Barbershop is a distributed system designed to digitize operations for hair salon chains. Unlike traditional monolithic apps, this system utilizes a **Microservices Architecture** to ensure scalability and independent deployment of features like Booking, Billing, and Notifications.
+
+**Business Goals:**
+* **Automate Scheduling:** Eliminate double-booking via real-time validation.
+* **Customer Retention:** Integrated Gift & Loyalty program.
+* **Operational Transparency:** Real-time dashboard for revenue and staff tracking.
+
+---
+
+## 2. System Analysis & Design (BA Portfolio)
+
+### A. Functional Modules (Microservices Breakdown)
+As the Business Analyst, I analyzed and defined the requirements for the following independent services:
+
+| Service Name | Key Responsibilities | Business Rules |
+| :--- | :--- | :--- |
+| **User & Auth Service** | Customer/Staff profiles, JWT Authentication. | Integration with Email for verification. |
+| **Appointment Service** | Booking logic, Calendar management. | *Rule:* One stylist cannot have overlapping slots. |
+| **Billing Service** | Invoicing, Revenue calculation. | Auto-generate PDF invoices via LibreOffice. |
+| **Notification Service** | Real-time updates via Socket.io & Email. | Send reminders 1 hour before appointment. |
+| **Gift Service** | Voucher & Loyalty point management. | Validate voucher expiration & usage limits. |
+
+### B. System Modeling
+
+#### Entity Relationship Diagram (ERD)
+*Designing the data schema across distributed databases (MongoDB) to ensure data consistency.*
+
+![ERD Diagram](https://res.cloudinary.com/vinhisreal/image/upload/v1765726870/erd_full_vfzoct.png)
+*(Insert your ERD image from ERDPlus here)*
+
+#### Use Case Diagram
+*Visualizing interactions between Customers, Receptionists, and the System.*
+
+![Use Case Diagram](https://res.cloudinary.com/vinhisreal/image/upload/v1765726969/UseCaseDiagram1_bf2liz.jpg)
+*(Insert your Use Case image from StarUML here)*
+
+---
+
+## 3. API Documentation (Gateway)
+**Full Documentation:** [Download API Specification (PDF)](https://vnshort.com/CeaF)
+**Postman Collection:**  [Run in Postman / Download JSON](https://vnshort.com/m1KL)
+*This document includes detailed request/response examples, error codes, and data types for all Microservices.*
+All requests are routed through the **API Gateway** to ensure security and load balancing.
+
+* **Base URL:** `http://localhost:5000/api/v1`
+* **Documentation Strategy:** Each microservice exposes specific endpoints documented below.
+
+| Service | Endpoint Example | Description |
+| :--- | :--- | :--- |
+| **Appointments** | `POST /appointment/create` | Init booking workflow -> Check slot -> Reserve. |
+| **Billing** | `GET /invoice/user` | Fetch payment history for customer app. |
+| **Gifts** | `POST /gift/redeem` | Apply voucher code to current session. |
+
+---
+
+## 4. Technical Setup Guide
 This guide provides step-by-step instructions on how to set up and run the PV Barbershop system on your local machine.
 
 ---
 
-## **Step 1: Clone the Repository**
+### **Step 1: Clone the Repository**
 
 First, clone the project repository using `git clone`
 
@@ -12,7 +72,7 @@ First, clone the project repository using `git clone`
 git clone https://github.com/pv-barbershop/pv-barbershop
 ```
 
-## **Step 2: Configure Environment Variables**
+### **Step 2: Configure Environment Variables**
 
 You need to create and populate an **`.env`** file corresponding to each service directory with the necessary configuration details.
 
@@ -131,7 +191,7 @@ You need to create and populate an **`.env`** file corresponding to each service
 
 ---
 
-## **Step 3: Install Dependencies and Start Services**
+### **Step 3: Install Dependencies and Start Services**
 
 After adding the `.env` file to each respective folder, navigate (`cd`) into each service directory, install the dependencies, and start the service.
 
@@ -150,7 +210,7 @@ npm run start
 # Repeat for all other service folders (appointment-service, billing-service, etc.)
 ```
 
-## **Step 4: Access the Applications**
+### **Step 4: Access the Applications**
 
 Once all services and applications are running, you can access the frontend interfaces:
 
