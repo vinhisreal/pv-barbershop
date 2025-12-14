@@ -13,8 +13,7 @@ PV Barbershop is a distributed system designed to digitize operations for hair s
 
 ---
 
-## 2. System Analysis & Design (BA Portfolio)
-
+## 2. System Analysis & Design
 ### A. Functional Modules (Microservices Breakdown)
 As the Business Analyst, I analyzed and defined the requirements for the following independent services:
 
@@ -43,7 +42,7 @@ As the Business Analyst, I analyzed and defined the requirements for the followi
 ---
 
 ## 3. API Documentation (Gateway)
-**Full Documentation:** [Download API Specification (PDF)](https://vnshort.com/CeaF)
+**Full Documentation:** [Download API Specification (PDF)](https://vnshort.com/CeaF)  
 **Postman Collection:**  [Run in Postman / Download JSON](https://vnshort.com/m1KL)
 *This document includes detailed request/response examples, error codes, and data types for all Microservices.*
 All requests are routed through the **API Gateway** to ensure security and load balancing.
