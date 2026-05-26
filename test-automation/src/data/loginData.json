@@ -1,0 +1,16 @@
+{
+  "invalidAccounts": [
+    {
+      "description": "Đăng nhập với email không tồn tại",
+      "email": "nonexistent_user@invalid.com",
+      "password": "WrongPassword123",
+      "expectedMessage": "Tài khoản hoặc mật khẩu không chính xác"
+    },
+    {
+      "description": "Đăng nhập với sai mật khẩu",
+      "email": "admin@example.com",
+      "password": "IncorrectPassword",
+      "expectedMessage": "Tài khoản hoặc mật khẩu không chính xác"
+    }
+  ]
+}
